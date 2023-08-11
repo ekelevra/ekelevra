@@ -29,10 +29,6 @@ Oh, yes. That was ChatGPT.
 ## Databases:
 ![SQL](https://img.shields.io/badge/SQL-%233262a8.svg?style=for-the-badge)![Mongo](https://img.shields.io/badge/MongoDB-%23589636.svg?style=for-the-badge)
 
-![K8s](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Docker](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Fastly](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ## Soft Skills:
 
 ## Languages
