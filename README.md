@@ -11,38 +11,45 @@ Over the years, I've honed my expertise in designing and implementing scalable, 
 
 Oh, yes. That was ChatGPT.
 
-<br><br>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-aramendi/) 
 [![Medium](https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&color=FFFFFF&logoColor=black)](https://medium.com/@estebanaramendi) 
 
 # 💻 Tech Stack:
 
-# Cloud Providers:
+## Cloud Providers:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-# Infra as Code:
+## Infra as Code:
 ![Pulumi](https://img.shields.io/badge/Pulumi-%23f7bf2a.svg?style=for-the-badge)![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge)
 
-# Programming Languages:
+## Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# Databases:
+## Databases:
 ![SQL](https://img.shields.io/badge/SQL-%233262a8.svg?style=for-the-badge)![Mongo](https://img.shields.io/badge/MongoDB-%23589636.svg?style=for-the-badge)
 
 ![K8s](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Docker](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Fastly](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# Soft Skills:
+## Soft Skills:
 
-# Languages
-![Spanish](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![English](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## Languages
+![Spanish](https://img.shields.io/badge/spanish-3670A0?style=for-the-badge&logoColor=ffdd54)![English](https://img.shields.io/badge/english-065535?style=for-the-badge)
 
-# Certifications
-   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=BA478F) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
+## Certifications
+  - AWS Certified Cloud Practitioner 
+  - Microsoft Certified: DevOps Engineer Expert
+  - Google Cloud Professional Cloud DevOps Engineer
+  - Azure AZ104 Administrator
+  - Azure AI900 AI Fundamentals
+  - Google Professional Cloud Architect
+  - Azure AZ900
+  - MCSE: Core Infrastructure
+  - MCSA: Windows Server
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ekelevra&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ekelevra&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ekelevra&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
